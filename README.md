@@ -53,4 +53,4 @@ Use the following steps to cluster the cryptocurrencies for the best value for k
 
 ----
 ## Sources
-I referenced several class actvities and applicable document to complete this challenge.
+I referenced several class activities and applicable documentation to complete this challenge.
